@@ -12,7 +12,7 @@ Its can lead to some simple, but cool locations like:
 
 ![Example1Build](https://user-images.githubusercontent.com/68827110/172195663-b3191f7e-dd40-413a-86cc-34e7033d6057.png)
 
-Sity is now generated around the road, so two blocks for straight road and turn is essential:
+City is now generated around the road, so two blocks for straight road and turn is essential:
 
 ![Road1Example](https://user-images.githubusercontent.com/68827110/172196039-83afcfa6-7793-4378-954a-7ceedda9c4a5.png)
 ![Road2Example](https://user-images.githubusercontent.com/68827110/172196131-cbb606f6-1196-4cd2-a985-f59d842c4e1e.png)
@@ -33,4 +33,4 @@ For now there is buttons for 5 actions inside UnityEditor(NOT IN THE GAME):
 
 Feel free to use it in any kind! Happy to help. Maybe there'll be a simple example scene and more improvements to the script.
 
-P.S. The town blocks are oriented to be positive Z axies for the front. The road is positive X axies. For the turn make like in an example road that goues from neg x to neg z(to the right).
+P.S. The town blocks are oriented to be positive Z axis for the front. The road is positive X axis. For the turn make like in an example road that goes from neg x to neg z(to the right).
