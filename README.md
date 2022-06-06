@@ -25,7 +25,7 @@ It is a simple EmptyObject with a position and blocks imported to the script you
 For now there is buttons for 5 actions inside UnityEditor(NOT IN THE GAME):
 
 ![image](https://user-images.githubusercontent.com/68827110/172196654-f161b81a-63c4-400d-9861-d9711db17537.png)
-1. Make a road block. If mark![image](https://user-images.githubusercontent.com/68827110/172196730-9833194f-e7db-4921-bca6-5db04c349380.png) is checked, script generates town blocks for left and right side.
+1. Make a road block. If mark  ![image](https://user-images.githubusercontent.com/68827110/172196730-9833194f-e7db-4921-bca6-5db04c349380.png)   is checked, script generates town blocks for left and right side.
 2. Make a turning road to the right.
 3. Same, but to the left.
 4. Undo (for now, ONLY ONE action).
